@@ -144,6 +144,7 @@ const sidebars = {
   items: [
  'spl-docs/splunk-commands',
  'spl-docs/common-usecases',
+ 'spl-docs/common-usecases-1',
  'spl-docs/bin-command',
  'spl-docs/eval-command',
  'spl-docs/fields-command',
